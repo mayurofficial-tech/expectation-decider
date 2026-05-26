@@ -91,28 +91,6 @@ The dataset contains information for 200 students.
 - Higher study hours improve passing probability.
 - Previous test scores strongly influence final exam results.
 
----
-
-# 📌 Project Structure
-
-```text
-expectation-decider/
-│
-├── dataset/
-│   └── expectation_decider_dataset.csv
-│
-├── notebook/
-│   └── expectation_decider.ipynb
-│
-├── images/
-│   └── venn_diagram.png
-│
-├── README.md
-└── requirements.txt
-```
-
----
-
 # 📌 Installation
 
 ```bash
@@ -149,7 +127,7 @@ This project helped in understanding:
 
 # 📌 Author
 
-Your Name
+Makwana Mayur Vishnubhai
 
 ---
 
